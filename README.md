@@ -1,2 +1,4 @@
 # dream
-就是字面意思。把做的几个有意思的梦记录下来。
+Welcome to record interesting (or strange) dreams here!
+
+You can use `b64.py` to encode [#nsfw](https://en.wikipedia.org/wiki/Not_safe_for_work) content to base64.

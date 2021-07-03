@@ -5,7 +5,7 @@ Welcome to record interesting (or strange) dreams here!
 
 You can use `b64.py` to encode [#nsfw](https://en.wikipedia.org/wiki/Not_safe_for_work) content to base64.
 
-## 中文
+### 梦
 
 欢迎在这里记录有趣的(或奇怪的)梦境!
 

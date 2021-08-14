@@ -17,6 +17,6 @@ If you need anonymity, please feel free to contact me in any way (most of which 
 
 你可以自由使用任何语言.
 
-你可以使用 `b64.py` 来将 [#nsfw](https://zh.wikipedia.org/wiki/NSFW) (不适宜在工作场所访问)的内容 `base64` 编码.
+你可以使用 `b64.py` 来将 [#nsfw](https://zh.wikipedia.org/wiki/NSFW) (不适宜在工作场所访问)的内容[base64编码](https://en.wikipedia.org/wiki/Base64).
 
 如果你需要匿名,可以通过各种方式(绝大多数方式我都可以)联系我.

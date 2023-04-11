@@ -1,4 +1,16 @@
 # dream
+
+```LaTeX
+All right, time is up.
+Every dream has its end.
+But who can say for sure that dreams are all meaningless?
+Joy and sadness are transient, but they do linger in your mind...
+They will be with you forever.
+Thank you for being in the dreram with me.
+Good night~♪
+```
+
+
 Welcome to record interesting (or strange) dreams here!
 
 (It can also be a short story written off the cuff.)
@@ -10,6 +22,16 @@ You can use `b64.py` to encode [#nsfw](https://en.wikipedia.org/wiki/Not_safe_fo
 If you need anonymity, please feel free to contact me in any way (most of which I can).
 
 ### 梦
+
+```LaTeX
+好啦, 时间差不多了.
+每段梦终有醒来的那一刻.
+但谁又能说梦一定是无意义的呢?
+欢乐也好, 悲伤也好, 它们虽然缥缈短暂, 但却可以在你心中停留...
+陪着你, 一路绽放.
+谢谢你, 陪我走过了这一场梦.
+那么, 晚安啦~♪
+```
 
 欢迎在这里记录有趣的(或奇怪的)梦境!
 
